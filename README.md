@@ -1,3 +1,3 @@
 # Commands
 
-Given below are the Github commands
+Given below are the popular Github commands
